@@ -27,7 +27,6 @@ SOFTWARE.
 //defining pins  edit here if you want to add more
 #define LED1 5     //(D5) 
 #define LED2 0     //(D3) 
-#define LED3 2     //(D4)
 
 const char* ssid     = "Y2kz";
 const char* password = "Y2kz1234";
