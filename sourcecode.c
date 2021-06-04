@@ -1,6 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266Ping.h>
-//defining pins  edit here if you want to add more
+
+//defining pins  
+//edit here if you want to add more LEDs
 #define LED1 5     //(D5) 
 #define LED2 0     //(D3) 
 
